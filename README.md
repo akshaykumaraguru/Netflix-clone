@@ -1,2 +1,2 @@
 # Netflix-clone
-(Netflix)[https://netflix-clone-browsepage.vercel.app/]
+[Netflix](https://netflix-clone-browsepage.vercel.app/)
